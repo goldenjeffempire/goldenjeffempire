@@ -1,10 +1,10 @@
 # Hi, I'm Jeffery Emuodafevware 👋
 
-I am a Software Engineering student at ALX ###I learn by doing... 
+I am a Software Engineering student at ALX `I learn by doing...` 
 
 ### Hi, I'm Jeffery Emuodafevware 👋
 
-I am a Software Engineering student at ALX *I learn by doing...*
+I am a Software Engineering student at ALX `I learn by doing...`
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen" alt="Profile Views" />
