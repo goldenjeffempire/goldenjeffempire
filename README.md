@@ -1,4 +1,4 @@
-# Hi, I'm Jeffery Emuodafevware 👋
+# <marquee>Hi, I'm Jeffery Emuodafevware 👋 <marquee>
 
 ---
 
