@@ -31,7 +31,7 @@ I am a Software Engineering student at ALX, where I’m learning through hands-o
 
 ---
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+My+Profile;My+Name+Is+Jeffery+Emuodafevware;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Greetings+and+Welcome;I+am+Jeffery+Emuodafevware;A+Coding+Enthusiast+with+a+Zeal+for+Innovation;I+Master+Skills+Through+Practical+Experience)](https://git.io/typing-svg)
 
 ---
 
