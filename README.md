@@ -40,7 +40,7 @@ I'm currently a Software Engineering student at ALX, immersed in practical learn
 - [LinkedIn](https://linkedin.com/in/jeffery-emuodafevware)
 - [Twitter](https://twitter.com/goldenjeffemp)
 - [Email](mailto:jeffemuodafe124@gmail.com)
-
+- [My Portfolio](https://jefferyportal.netlify.app)
 ---
 
 ### ⚡ Interesting Fact:
