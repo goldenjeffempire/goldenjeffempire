@@ -1,85 +1,90 @@
+<!-- futuristic-banner -->
+<p align="center">
+  <img src="https://github.com/jefferyemuodafevware/jefferyemuodafevware/assets/README-BANNER-FUTURISTIC.svg" alt="banner" style="border-radius: 15px;">
+</p>
+
 <h1 align="center">👋 Hi, I'm Jeffery Emuodafevware</h1>
-<h3 align="center">Full Stack Software Engineer | AI/ML Enthusiast | Open Source Contributor | Tech Explorer</h3>
+<h3 align="center">🧠 Full Stack Software Engineer | AI & ML Explorer | Future-Ready Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;Open+Source+Contributor+%E2%9C%A8;Lifelong+Learner+%E2%9C%8C%EF%B8%8F+Builder+%E2%9A%99%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F5B7&center=true&vCenter=true&width=600&lines=Solving+problems+with+code.;Designing+the+future+with+AI.;Engineering+Scalable+Web+Platforms.;Turning+ideas+into+code+since+day+one.">
 </p>
 
 ---
 
-## 🧠 About Me
+### 🔭 About Me
 
-I’m a passionate and growth-driven **Full Stack Software Engineer** with **2+ years of professional experience** in building modern web applications, APIs, and scalable systems. Recently, I’ve expanded my focus to **Machine Learning** and **Artificial Intelligence**, where I’m building intelligent applications and learning to deploy real-world AI models.
+Hi, I'm Jeffery — a **Full Stack Software Engineer** with over **2 years of experience** designing, developing, and deploying production-grade web applications. I combine deep **backend engineering skills** with clean **frontend development**, and I’m now diving into **Machine Learning and AI** to build the intelligent systems of tomorrow.
 
-🚀 I thrive in solving complex problems through clean code, collaboration, and creativity.
-
----
-
-## 💼 What I Do
-
-- 🔧 Build production-ready **backend APIs** using Django, DRF, Flask, and PostgreSQL
-- 🌐 Develop sleek and responsive **frontend interfaces** with React, Next.js & TailwindCSS
-- ⚙️ Design scalable systems with CI/CD, Docker, and GitHub Actions
-- 🤖 Exploring AI/ML using TensorFlow, PyTorch & HuggingFace
-- 🧩 Integrate intelligent systems into full-stack apps
-- ✍️ Document, test, and maintain clean, maintainable codebases
+🔬 **Currently exploring:**
+- Generative AI (LLMs)
+- ML Model Deployment
+- System Design for Scalable AI Apps
 
 ---
 
-## 🚀 Tech Stack
+### 💼 Tech Stack
 
-### 🔙 Backend
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django%20REST-FF1700?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🔜 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & DevOps
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jefferyemuodafevware&show_icons=true&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jefferyemuodafevware&theme=tokyonight&hide_border=true" height="180px" />
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferyemuodafevware&layout=compact&theme=tokyonight&hide_border=true" height="160px" />
+#### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+#### 🤖 AI/ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+#### ⚙️ DevOps / Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 🔁 GitHub Activity Graph
+### 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jefferyemuodafevware&theme=tokyo-night&bg_color=1a1b27&color=00f5d4&line=38bdf8&point=ff6b6b&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jefferyemuodafevware&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jefferyemuodafevware&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferyemuodafevware&layout=compact&theme=tokyonight&hide_border=true" height="140" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jefferyemuodafevware&theme=dracula&bg_color=1a1b27&color=00f5d4&line=38bdf8&point=ff6b6b&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jefferyemuodafevware/jefferyemuodafevware/output/github-contribution-grid-snake.svg" />
@@ -87,7 +92,7 @@ I’m a passionate and growth-driven **Full Stack Software Engineer** with **2+ 
 
 ---
 
-## 📬 Let’s Connect
+### 🌍 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jeffery-emuodafevware"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -99,15 +104,15 @@ I’m a passionate and growth-driven **Full Stack Software Engineer** with **2+ 
 
 ---
 
-## ⚡ Fun Fact
+### ⚡ Fun Fact
 
-> I believe **developers who use AI will outperform those who don't.**  
-That’s why I’m embracing Machine Learning, one project at a time.
+> In a world run by algorithms, I choose to be the architect of intelligence.  
+> “The only way to learn a new technology is to build with it.” — Jeffery
 
 ---
 
-## 👀 Visitors
+### 👁️‍🗨️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jefferyemuodafevware&style=flat-square&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jefferyemuodafevware&style=flat-square&color=brightgreen" />
 </p>
