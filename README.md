@@ -1,12 +1,12 @@
-<!-- 🚀 Motion Banner -->
+<!-- 💡 Motion Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Jeffery%20Onome%20Emuodafevware&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=240&section=header&text=Jeffery%20Onome%20Emuodafevware&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">⚡ Full Stack Engineer | AI/ML Explorer | Creative Technologist</h3>
+<h3 align="center">⚡ Full Stack Software Engineer | AI/ML Explorer | Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEC260&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;I'm+Jeffery+Onome+Emuodafevware.;AI+%2B+Full+Stack+Software+Engineer.;2%2B+Years+Building+Tech+That+Matters.;Currently+Exploring+ML%2C+LLMs+and+NLP." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEC260&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;I'm+Jeffery+Onome+Emuodafevware.;AI+%2B+Full+Stack+Software+Engineer.;2%2B+Years+Building+Scalable+Solutions.;Currently+Exploring+ML%2C+LLMs+and+NLP." />
 </p>
 
 ---
@@ -14,35 +14,32 @@
 ## 🤖 Meet AI JeffBot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpodnB5aHl1azBrMTRxaGdoa2pyNDZ2Z2FiNzMxY3NycHZ3N3F5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IeRdgXzGkUjTy/giphy.gif" width="280" alt="AI Chatbot Animation" />
+  <img src="https://raw.githubusercontent.com/kittinan/kittinan/master/images/ai-chat-bot.svg" width="280" alt="AI Chatbot SVG" />
 </p>
 
-> This animation symbolizes my dive into **AI**, **Machine Learning**, and **NLP-powered tools** like intelligent bots, assistants, and decision systems.
+> This visual reflects my journey into **AI**, **Machine Learning**, and building smart systems like LLM dashboards, AI assistants, and NLP-integrated platforms.
 
 ---
 
 ## 🧠 About Me
 
-I’m **Jeffery Onome Emuodafevware**, a highly driven **Full Stack Software Engineer** with over **2 years of experience**, merging traditional software craftsmanship with emerging AI intelligence.  
-
-I'm deeply passionate about creating **intuitive platforms**, scalable backends, and **AI-enhanced solutions** that solve real problems.
-
-> _“I build what I wish existed.”_
+I'm **Jeffery Onome Emuodafevware**, a dedicated **Full Stack Software Engineer** with over **2 years of experience**, blending backend systems with beautiful frontends — and now venturing into **AI/ML**.  
+My goal? To engineer software that **thinks, scales, and inspires.**
 
 ---
 
-## 🎯 Areas of Focus
+## 🚀 Current Exploration
 
-- 🧠 Building full-stack AI apps using Django + React + ML
-- ⚡ Integrating LLMs into intelligent assistants and dashboards
-- 🧩 Modular API design & scalable system architecture
-- 🚢 Containerized, production-ready apps (Docker + CI/CD)
+- 🤖 ML APIs for intelligent dashboards
+- 🧠 LLM-based assistants with NLP
+- 🔌 Modular React/Django AI templates
+- 🐳 Dockerized CI/CD for full-stack & ML deployments
 
 ---
 
-## 🧰 Tech Stack Toolbox
+## 💼 Tech Stack
 
-### 🎨 Frontend
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -54,14 +51,13 @@ I'm deeply passionate about creating **intuitive platforms**, scalable backends,
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🤖 AI/ML/NLP
+### 🤖 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 🛠 DevOps & Tools
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -82,15 +78,15 @@ I'm deeply passionate about creating **intuitive platforms**, scalable backends,
 
 ---
 
-## 📈 Activity & Motion Timeline
+## 📈 Activity Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jefferyemuodafevware&theme=dracula&area=true&custom_title=My+Open+Source+Timeline&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jefferyemuodafevware&theme=dracula&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Animated Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -98,7 +94,7 @@ I'm deeply passionate about creating **intuitive platforms**, scalable backends,
 
 ---
 
-## 📬 Let’s Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jeffery-emuodafevware"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -110,7 +106,18 @@ I'm deeply passionate about creating **intuitive platforms**, scalable backends,
 
 ---
 
-## 🎨 Motion Footer
+## ⚡ Fun Fact
+
+> I don't just write code. I design experiences, solve problems, and teach systems to think.  
+> "_If you want to shape the future, you build it._"
+
+---
+
+## 👁️‍🗨️ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jefferyemuodafevware&style=flat-square&color=brightgreen" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
