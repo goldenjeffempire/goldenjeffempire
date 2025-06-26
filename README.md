@@ -1,4 +1,4 @@
-<!-- 💡 Motion Header Banner -->
+<!-- 🧬 Futuristic Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=240&section=header&text=Jeffery%20Onome%20Emuodafevware&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -6,7 +6,7 @@
 <h3 align="center">⚡ Full Stack Software Engineer | AI/ML Explorer | Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEC260&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;I'm+Jeffery+Onome+Emuodafevware.;AI+%2B+Full+Stack+Software+Engineer.;2%2B+Years+Building+Scalable+Solutions.;Currently+Exploring+ML%2C+LLMs+and+NLP." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FEC260&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Jeffery+Onome+Emuodafevware.;AI+%2B+Full+Stack+Software+Engineer.;2%2B+Years+Experience.;ML%2C+LLMs%2C+APIs+%2B+NLP+Engineer." />
 </p>
 
 ---
@@ -14,44 +14,48 @@
 ## 🤖 Meet AI JeffBot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kittinan/kittinan/master/images/ai-chat-bot.svg" width="280" alt="AI Chatbot SVG" />
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="300" alt="AI Developer Chatbot Animation" />
 </p>
 
-> This visual reflects my journey into **AI**, **Machine Learning**, and building smart systems like LLM dashboards, AI assistants, and NLP-integrated platforms.
+> This animation represents my journey into AI, Machine Learning, NLP, and building intelligent assistants, smart APIs, and full-stack AI systems.
 
 ---
 
 ## 🧠 About Me
 
-I'm **Jeffery Onome Emuodafevware**, a dedicated **Full Stack Software Engineer** with over **2 years of experience**, blending backend systems with beautiful frontends — and now venturing into **AI/ML**.  
-My goal? To engineer software that **thinks, scales, and inspires.**
+I'm **Jeffery Onome Emuodafevware**, a driven and creative **Full Stack Software Engineer** with 2+ years of professional experience. I specialize in building fast, scalable applications and now exploring the frontier of **AI/ML integration** into production-grade systems.
+
+🔧 Passionate about creating:
+- Scalable backends with Django
+- Beautiful frontends with React
+- ML/NLP tools that solve real-world problems
 
 ---
 
-## 🚀 Current Exploration
+## 🎯 Current Goals
 
-- 🤖 ML APIs for intelligent dashboards
-- 🧠 LLM-based assistants with NLP
-- 🔌 Modular React/Django AI templates
-- 🐳 Dockerized CI/CD for full-stack & ML deployments
+- 🧠 Mastering LLM-based platforms & prompt engineering
+- 🤖 Building ML dashboards & AI copilots
+- 🧪 Automating backend + model deployment with CI/CD
+- 🧬 Developing reusable full-stack AI templates
 
 ---
 
 ## 💼 Tech Stack
 
-### 🌐 Frontend
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 🧩 Backend & APIs
+### 🔧 Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🤖 AI & ML
+### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -78,7 +82,7 @@ My goal? To engineer software that **thinks, scales, and inspires.**
 
 ---
 
-## 📈 Activity Timeline
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jefferyemuodafevware&theme=dracula&area=true&hide_border=true" />
@@ -108,12 +112,12 @@ My goal? To engineer software that **thinks, scales, and inspires.**
 
 ## ⚡ Fun Fact
 
-> I don't just write code. I design experiences, solve problems, and teach systems to think.  
-> "_If you want to shape the future, you build it._"
+> I don't just code. I create, learn, scale, and innovate.  
+> _“Software eats the world. AI feeds it wisdom.”_ – Jeffery Onome Emuodafevware
 
 ---
 
-## 👁️‍🗨️ Visitors
+## 👁️ Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jefferyemuodafevware&style=flat-square&color=brightgreen" />
